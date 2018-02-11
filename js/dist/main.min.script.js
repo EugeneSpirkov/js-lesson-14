@@ -1,0 +1,1 @@
+console.log("this is the first script"),console.log("this is the second script");
